@@ -1,0 +1,1 @@
+# Repozytorium AiBD Szymon Kupiecki, 406746
