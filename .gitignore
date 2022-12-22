@@ -1,2 +1,5 @@
 # pycharm configuration files
 **/.idea/
+
+# jupyter checkpoints folder
+**/.ipynb_checkpoints/
